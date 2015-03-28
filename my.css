@@ -1,0 +1,51 @@
+.jumbotron {
+    text-align: center;
+}
+
+.jumbotron .joyofdata {
+    font-family: 'Ubuntu Mono';
+}
+
+.joyofdata .joy {
+    color: #318B9B;
+}
+
+.joyofdata .of {
+    color: #374C98;
+}
+
+.joyofdata .data {
+    color: #193860;
+}
+
+.sample {
+    max-width: 250px;
+    max-height: 150px;
+    border: 1px solid #eee;
+}
+
+.sample-lg {
+    height: 400px;
+}
+
+.col {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#about, #skills, #ideas {
+    background-color: #eee;
+    width:100%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.show-desc {
+    width: 100%;
+    font-weight: bold;
+    color: #888;
+}
+
+#sub {
+    font-style: italic;
+}
